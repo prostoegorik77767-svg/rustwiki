@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0  ;
+}
+
+header{
+    width: 100%;
+    height: 100vh;
+    background: url(./assets/bak.png) no-repeat;
+    background-size: contain;
+}
+.shainik{
+    display: flex;
+    flex-direction: row;
+}
+.shainik,h1{
+    color: white;
+}
+h2{
+    position: relative;
+    left: 800px;
+}
