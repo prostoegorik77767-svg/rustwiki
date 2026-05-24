@@ -20,3 +20,9 @@ h2{
     position: relative;
     left: 800px;
 }
+main{
+    background: url(./assets/Rectangle\ 1.png) no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: contain;
+}
